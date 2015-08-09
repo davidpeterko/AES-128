@@ -3,7 +3,7 @@ import java.io.*;
 import static java.lang.System.*;
 
 
-public class KoEncryption{
+public class AES{
 	
 	int roundkey[][][] = new int[15][4][4];
 
